@@ -1,0 +1,7 @@
+
+DATA CLEANING REPORT
+----------------------
+Total Rows: 4
+Average Age: 27.67
+Average Salary: 59062.50
+Unique Departments: 3
